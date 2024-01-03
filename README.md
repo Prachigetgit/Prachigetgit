@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prachigetgit
+- 👋 Hi, I’m Prachi Jain
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Full stack website development
